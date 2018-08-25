@@ -1,7 +1,13 @@
 # Useful ideas+info files
 Useful ideas and information, from me, saved as human/machine readable files with a bit of metadata.
 
-\[add things here using note]
+\[add things here using note]  
+\[create an info file with title heading "Choices in life  
+of a thing/service or time", content after metadata: "  
+Some choices people make in life are about the question "should you  
+spend/use a thing (money, a service) or time (e.g. doing it yourself)?".  
+Sometimes when you use less of one, the other is used more.  
+"]
 
 ## Stack Overflow (Stack Exchange) profile
  \- \[add metadata things here using note]
